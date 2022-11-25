@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "courseName": "IFT 101",
+    "image": "📚",
+    "from": "Information Technology",
+    "instructor": "David Alderman, Tatiana Walsh",
+    "credits": "4",
+    "description": "Introduction to Information Technology"
+  },
+  {
+    "id": 2,
+    "courseName": "CSE 201",
+    "image": "🕉",
+    "from": "Computer Science",
+    "instructor": "Mr. Banerjee ",
+    "credits": "3",
+    "description": "Introduction to Computer Science"
+  },
+  {
+    "id": 3,
+    "courseName": "IFT 301",
+    "image": "📯",
+    "from": "Information Technology",
+    "instructor": "Asmaa Elbadrawy",
+    "credits": "3",
+    "description": "Big Data Analysis"
+  },
+  {
+    "id": 4,
+    "courseName": "SER 400",
+    "image": "😱",
+    "from": "Software Engineering",
+    "instructor": "James Dank",
+    "credits": "3",
+    "description": "Basics of SE"
+  },
+  {
+    "id": 5,
+    "courseName": "INC 401",
+    "image": "🐇",
+    "from": "Veterinary  Science",
+    "instructor": "David Alderman, Tatiana Walsh",
+    "credits": "3",
+    "description": "Animal Science"
+  },
+  {
+    "id": 6,
+    "courseName": "IFT 502",
+    "image": "📚",
+    "from": "Information Technology",
+    "instructor": "David Alderman, Tatiana Walsh",
+    "credits": "3",
+    "description": "Introduction to Information Technology"
+  }
+]
